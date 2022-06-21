@@ -39,8 +39,9 @@ section article{
 section article div{
     height: 193px;
     width: 300px;
-    background-image: url(/img/batmanF.png);
+    background-image: url(../img/batmanF.png);
     background-size: cover;
+
 }
 section article div i{
     color:#CC2424;
